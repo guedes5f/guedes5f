@@ -1,8 +1,9 @@
 
-      Hello! and Welcome 👋, I'm G_Monteiro
+Hello! and Welcome 👋, I'm G_Monteiro
 
 
 <div align="left">
+  <h3>learning every day!</h3>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
