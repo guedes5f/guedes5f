@@ -5,7 +5,7 @@
 <div align="left">
   <h3>learning every day!</h3>  
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,ubuntu,vscode,html,css,linux,postgres,docker,sentry,git,github,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,ai,js,ubuntu,vscode,html,css,linux,postgres,docker,sentry,git,github,)](https://skillicons.dev)
 
 
 </div>
