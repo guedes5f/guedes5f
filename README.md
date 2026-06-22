@@ -54,7 +54,7 @@ Desenvolvedor backend focado em Python e Django.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript_(Fundamentals)-F7DF1E?logo=javascript&logoColor=black)
 
-#_# Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
