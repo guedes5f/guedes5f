@@ -9,6 +9,8 @@ Desenvolvedor backend focado em Python e Django.
 
 #_# 🛠️ Tecnologias
 
+#_# AI (aprendendo, todos os dias!)
+
 #_# Backend
 - Python
 - Django
@@ -18,6 +20,7 @@ Desenvolvedor backend focado em Python e Django.
 #_# Frontend
 - HTML
 - CSS
+- tailwind (Intermediate)
 - JavaScript (fundamentos)
 
 #_# Ferramentas
@@ -27,6 +30,13 @@ Desenvolvedor backend focado em Python e Django.
 - Linux
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,ai,js,ubuntu,vscode,html,css,linux,postgres,docker,sentry,git,github,)](https://skillicons.dev)
+
+💡 Atualmente estudando desenvolvimento web com Python e Django.
+
+🤝 Open to collaborations and open-source projects.
+
+📫 I can contribute to your project!
+
 
 
 </div>
