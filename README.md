@@ -7,23 +7,23 @@
 
 Desenvolvedor backend focado em Python e Django.
 
-#_# 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
-#_# AI (aprendendo, todos os dias!)
+### AI (aprendendo, todos os dias!)
 
-#_# Backend
+### Backend
 - Python
 - Django
 - Django REST Framework
 - PostgreSQL
 
-#_# Frontend
+### Frontend
 - HTML
 - CSS
 - tailwind (Intermediate)
 - JavaScript (fundamentos)
 
-#_# Ferramentas
+### Ferramentas
 - Git
 - GitHub
 - Docker (aprendendo)
@@ -36,7 +36,7 @@ Desenvolvedor backend focado em Python e Django.
 
 ### 🚀 Tech Stack
 
-#_# Backend
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
@@ -44,7 +44,7 @@ Desenvolvedor backend focado em Python e Django.
 
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django&logoColor=white)
 
-#_# Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
@@ -60,11 +60,11 @@ Desenvolvedor backend focado em Python e Django.
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-#_# AI & Automation
+### AI & Automation
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?logo=openai&logoColor=white)
 
-#_# Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
